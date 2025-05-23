@@ -1,0 +1,45 @@
+[
+    {
+        "id": "PTF-20250522-234356-CVQW",
+        "username": "raf",
+        "tanggal": "2025-05-22 23:43",
+        "kendaraan": "KB 3333 UA",
+        "jenis_bbm": "max",
+        "liter": "5",
+        "total": 65000.0,
+        "poin": 6
+    },
+    {
+        "id": "PTF-20250523-105718-YL0N",
+        "username": "raf",
+        "tanggal": "2025-05-23 10:57",
+        "kendaraan": "KB 3333 UA",
+        "jenis_bbm": "premium",
+        "liter": "5",
+        "total": 50000.0,
+        "poin": 5,
+        "status": "MENUNGGU"
+    },
+    {
+        "id": "PTF-20250523-114306-S8X6",
+        "username": "rafli",
+        "tanggal": "2025-05-23 11:43",
+        "kendaraan": "KB 5565 KH",
+        "jenis_bbm": "turbo",
+        "liter": "10",
+        "total": 150000.0,
+        "poin": 15,
+        "status": "MENUNGGU"
+    },
+    {
+        "id": "PTF-20250523-114339-ZK3P",
+        "username": "rafli",
+        "tanggal": "2025-05-23 11:43",
+        "kendaraan": "KB 1188 KK",
+        "jenis_bbm": "premium",
+        "liter": "15",
+        "total": 150000.0,
+        "poin": 15,
+        "status": "MENUNGGU"
+    }
+]
